@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
     cout << "Sal ba!!\n";
+	cout << "bn u\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
